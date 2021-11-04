@@ -1,0 +1,12 @@
+com\genesis\pojo\Wallet.class
+com\genesis\pojo\coincap\asset\Assets.class
+com\genesis\App.class
+com\genesis\thread\ProcessCsv.class
+com\genesis\webservice\CoincapWebService.class
+com\genesis\pojo\coincap\history\Datum.class
+com\genesis\utils\ConfigResourcesUtils.class
+com\genesis\pojo\PerformanceData.class
+com\genesis\thread\ThreadPool.class
+com\genesis\pojo\coincap\history\History.class
+com\genesis\pojo\coincap\asset\Datum.class
+com\genesis\utils\FileResourcesUtils.class
